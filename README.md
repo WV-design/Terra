@@ -7,3 +7,4 @@ The cornerstones of the design are:
  	- stay under 400 euro when stripping an ender 3 for parts or 500 when building from scratch
 
    Special thanks to Chip from the snakeoilxy and Vez3D from thr VZbot for answering some of my questions!
+![Untitled Project (6)](https://github.com/Gerbz1/TerraXY/assets/163194295/1bbabe0a-e048-4067-a9a3-dcdc2d68d720)
