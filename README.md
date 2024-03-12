@@ -3,8 +3,8 @@ TerraXY is an opensource, small footprint, fast 3d printer inspired by panda-min
 The goal was to maintain the 230x230mm build area of an ender-3 but to make it faster, more reliable and compact.
 https://github.com/Gerbz1/TerraXY/blob/main/README.md
 The cornerstones of the design are:
-	- Only use off the shelf or 3d printed parts
- 	- stay under 400 euro when stripping an ender 3 for parts or 500 when building from scratch
+- Only use off the shelf or 3d printed parts
+- stay under 400 euro when stripping an ender 3 for parts or 500 when building from scratch
 
 Special thanks to Chip and Vez3D for answering some of my questions, I really appreciate it!
 ![Untitled Project (6)](https://github.com/Gerbz1/TerraXY/assets/163194295/1bbabe0a-e048-4067-a9a3-dcdc2d68d720)
