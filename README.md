@@ -1,7 +1,7 @@
 ![Untitled Project (9)](https://github.com/Gerbz1/TerraXY/assets/163194295/1ccfcf32-6a58-4488-beea-40edc6e5bece)
-TerraXY is an opensource, small footprint, fast 3d printer designed and built by deBlauwe and me .
-inspired by panda-mini, SnakeOilXY, ratrig and Voron. Thank you for opensourcing your work!
+TerraXY is an opensource, small footprint, fast 3d printer designed and built by deBlauwe and me.
 
+inspired by panda-mini, SnakeOilXY, ratrig and Voron. Thank you for opensourcing your work!
 The goal was to maintain the 230x230mm build area of an ender-3 but to make it faster, more reliable and to keep it compact.
 
 The cornerstones of the design are:
