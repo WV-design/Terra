@@ -13,5 +13,7 @@ The cornerstones of the design are:
 
 Special thanks to Chip and Vez3D for answering some of my questions, I really appreciate it!
 You can contact me on discord "gerbz_", A discord server is on the way.
+![Uploading terra.png…]()
+
 ![Untitled Project (6)](https://github.com/Gerbz1/TerraXY/assets/163194295/1bbabe0a-e048-4067-a9a3-dcdc2d68d720)
 ![Untitled Project (10)](https://github.com/Gerbz1/TerraXY/assets/163194295/7777ee97-72b2-4c0d-805a-575f76d4f928)
