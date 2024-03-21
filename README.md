@@ -7,11 +7,13 @@ The goal was to maintain the 230x230mm build area of an ender-3 but to make it f
 
 # Goals
 The cornerstones of the design are:
-- Only use off the shelf or 3d printed parts
-- Stay under 400 euro when stripping an ender 3 for parts or 500 when building from scratch
+- Use off the shelf or 3d printed parts
+- Stay under €400 when upgrading an ender 3 for parts or 500 when building from scratch
 - Use ender-3 parts to keep the cost down
+- Run klipper and an web interface
+- Keep the gantry weight down.
 
-Special thanks to Chip and Vez3D for answering some of my questions, I really appreciate it!
+Special thanks to Chip for answering some of my questions, I really appreciate it!
 You can contact me on discord "gerbz_", A discord server is on the way.
 ![Uploading terra.png…]()
 
