@@ -1,4 +1,4 @@
-![printer](https://github.com/Gerbz1/Terra/assets/163194295/7edcd92f-4501-43da-9cc1-7839e4e78735)
+![terra_banner](https://github.com/WV-design/Terra/assets/163194295/3122d36e-b378-4e2f-b841-3d84f195c873)
 
 # TerraXY
 TerraXY is an opensource, small footprint, fast 3d printer designed and built by deBlauwe and I.
